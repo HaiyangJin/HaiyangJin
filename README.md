@@ -1,4 +1,10 @@
-### Hi there 👋
+I’m Haiyang Jin, currently a postdoc in [Dr. Olivia Cheung’s lab](https://www.oliviacheunglab.org/) at the New York University Abu Dhabi🇦🇪. I obtained my PhD in Psychology with the supervision of [Prof. William G. Hayward](http://www.socsc.hku.hk/bio/Hayward.htm), [Assoc/Prof. Paul M. Corballis](https://unidirectory.auckland.ac.nz/profile/p-corballis), and [Assoc/Porf. Sam S. Schwarzkopf](https://sampendu.net/sam-schwarzkopf/) at the University of Auckland, New Zealand🇳🇿. 
+
+I'm interested in understanding face processing🙃 and vision sciences🧐 with psychophysics, EEG/ERP, fMRI🧠 and eye-tracking👀. You can find more about me [here](https://haiyangjin.github.io/en/about/).
+
+I'm also a big fan of statistics🔢, especially linear mixed-effects modeling and Bayesian hierarchical modeling. I'm currently working on a Bayesian meta-analysis📚 with seletion models to take into account publication bias. 
+
+Feel free to [contact me](https://haiyangjin.github.io/en/contact/)📫 for anything.
 
 <!--
 **HaiyangJin/HaiyangJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
